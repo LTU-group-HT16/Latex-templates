@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.6.25)  24 SEP 2016 16:59
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.6.25)  24 SEP 2016 16:37
+>>>>>>> Stashed changes
 entering extended mode
 **./SRS.tex
 (SRS.tex
@@ -61,6 +67,77 @@ Package typearea, 2016/06/14 v3.21 KOMA-Script package (type area)
 \ta@vblk=\skip44
 \ta@temp=\skip45
 \footheight=\skip46
+<<<<<<< Updated upstream
+=======
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.30)  24 SEP 2016 15:40
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.30)  24 SEP 2016 16:37
+>>>>>>> Stashed changes
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SRS.tex
+(./SRS.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2013/12/19 v3.12 KOMA-Script document class (report)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 117.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 118.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 119.
+Package tocbasic Info: defining new hook before heading of `' on input line 112
+3.
+Class scrreprt Info: File `scrsize11pt.clo' used instead of
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 165
+5.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (11pt
+)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
+
+Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
@@ -588,7 +665,19 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 38.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+<<<<<<< Updated upstream
 (SRS.aux)
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+(SRS.aux)
+=======
+No file SRS.aux.
+>>>>>>> origin/master
+=======
+(./SRS.aux)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 \openout1 = `SRS.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -624,6 +713,29 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \scratchcounter=\count110
 \scratchdimen=\dimen112
 \scratchbox=\box31
+<<<<<<< Updated upstream
+=======
+=======
+\AtBeginShipoutBox=\box29
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count109
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen112
+\scratchbox=\box30
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 \nofMPsegments=\count111
 \nofMParguments=\count112
 \everyMPshowfont=\toks18
@@ -645,8 +757,21 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
+<<<<<<< Updated upstream
 
 (SRS.out) (SRS.out)
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+
+(SRS.out) (SRS.out)
+=======
+>>>>>>> origin/master
+=======
+
+(./SRS.out) (./SRS.out)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 \@outlinefile=\write3
 \openout3 = `SRS.out'.
 
@@ -655,16 +780,46 @@ Overfull \hbox (36.98853pt too wide) in paragraph at lines 48--48
  []
  []
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60         Lule\circ
+                      {a} Tekniska Universitet\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+>>>>>>> origin/master
+=======
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./SRS.toc
+>>>>>>> Stashed changes
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+<<<<<<< Updated upstream
+(Font)              <12> on input line 60.
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (SRS.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
+=======
+>>>>>>> Stashed changes
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
  [2
+<<<<<<< Updated upstream
 
 ])
 \tf@toc=\write4
@@ -675,6 +830,66 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 chapter 1.
+<<<<<<< Updated upstream
+=======
+=======
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60         Lule\circ{a} Tekniska Universitet\\
+                                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60         Lule\circ{a} Tekniska Universitet\\
+                                                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.60         Lule\circ{a} Tekniska Universitet\\
+                                                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.60         Lule\circ{a} Tekniska Universitet\\
+                                                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[1
+=======
+>>>>>>> Stashed changes
+
+])
+\tf@toc=\write4
+\openout4 = `SRS.toc'.
+
+ [3] [4
+
+]
+Chapter 1.
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Implementation of \float@addtolist became
@@ -690,6 +905,11 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface .
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 
 Overfull \hbox (6.84702pt too wide) in paragraph at lines 88--89
 \OT1/cmr/m/n/10.95 The fol-low-ing SRS de-scribes the on-board soft-ware of a r
@@ -745,4 +965,69 @@ PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  50 named destinations out of 1000 (max. 500000)
  281 words of extra memory for PDF output out of 10000 (max. 10000000)
+<<<<<<< Updated upstream
+=======
+=======
+[4
+=======
+[5
+>>>>>>> Stashed changes
+
+] [6]
+Chapter 2.
+[7
+
+] [8]
+Chapter 3.
+[9
+
+]
+Chapter 4.
+[10
+
+]
+Chapter 5.
+[11
+
+] [12]
+Chapter 6.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 322.
+[13
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 322.
+ (./SRS.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 322.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 322.
+Package rerunfilecheck Info: File `SRS.out' has not changed.
+(rerunfilecheck)             Checksum: 1C4C8DD57D8E2E08945439F7628E5B8D;2364.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 322.
+ ) 
+Here is how much of TeX's memory you used:
+ 8206 strings out of 493117
+ 123059 string characters out of 6135433
+ 262808 words of memory out of 5000000
+ 11567 multiletter control sequences out of 15000+600000
+ 8782 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,7n,38p,242b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on SRS.pdf (13 pages, 83132 bytes).
+PDF statistics:
+<<<<<<< Updated upstream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> origin/master
+=======
+ 271 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
